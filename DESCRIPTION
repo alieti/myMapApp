@@ -7,8 +7,9 @@ Author: Ali Etminan, Mohsen Pirmoradiyan
 Maintainer: Ali Etminan <aliet176@student.liu.se>
 Description: This Shiny app provides an interactive interface to run the myMap Package.
     myMap package is a package to download map from Stamen data base.
-License: What license is it under?
+License: GPL-3
+Encoding: UTF-8
 RoxygenNote: 6.1.1
 Imports: 
     shiny,
-    lab5
+    myMap
