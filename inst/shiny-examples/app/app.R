@@ -1,7 +1,7 @@
 #' A Shiny app for myMapp package
 #' @title myMapApp
 #' @import shiny
-#' @import myMap
+#' 
 
 ui <- fluidPage(
   title = titlePanel("myMapApp"),
