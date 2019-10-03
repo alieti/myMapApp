@@ -1,0 +1,11 @@
+Package: myMapApp
+Type: Package
+Title: A shiy app for myMap Package
+Version: 1.0
+Date: 2019-10-03
+Author: Ali Etminan, Mohsen Pirmoradiyan
+Maintainer: Ali Etminan <aliet176@student.liu.se>
+Description: This shiny app provides an interactive interface to run the myMap Package.
+    myMap package is a package to download map from Stamen data base.
+License: What license is it under?
+RoxygenNote: 6.1.1
