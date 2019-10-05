@@ -16,6 +16,6 @@ runExample <- function() {
   if (appDir == "") {
     stop("Could not find example directory. Try re-installing `myMapApp`.", call. = FALSE)
   }
-  
+  library(myMap)
   runApp(appDir, display.mode = "normal")
 }
