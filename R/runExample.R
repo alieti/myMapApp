@@ -1,9 +1,9 @@
-#' runExample.
+#' runExample
 #'
 #' \code{runExample()} Run the shiny app related to myMap package.
 #' 
-#' @name runExample
-#' @docType function
+#' 
+#'  
 #' @description This function runs the shiny myMapApp. The app shows the myMap methods
 #'     output interactively.
 #' @return Shiny app to run myMap.
