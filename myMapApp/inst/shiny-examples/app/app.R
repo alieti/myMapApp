@@ -1,5 +1,8 @@
 #' A Shiny app for myMapp package
 #' @title myMapApp
+#' @description This app shows some functions of myMap package interactively.
+#' @author Mohsen Pirmoradiyan, Ali Etminan
+#' 
 #' @import shiny
 #' 
 
